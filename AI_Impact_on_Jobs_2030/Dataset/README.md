@@ -1,1 +1,1 @@
-AI_Impact_on_Jobs_2030/Dataset/README.md
+This folder contains the dataset used for the AI Jobs dashboard.
